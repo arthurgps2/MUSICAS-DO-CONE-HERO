@@ -1,0 +1,4 @@
+2014-12-07 - ver 1
+2017-04-22 - ver 2,Major overhaul.
+2018-06-30 - ver2.1 - high quality audio and changed album
+2020-07-12 - ver2.2 - sync
